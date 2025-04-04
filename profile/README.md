@@ -4,7 +4,7 @@ This organization houses the codebase for our bachelor's thesis research on mous
 
 ## Our Repositories
 
-### [Mouse Tracking Playground](https://github.com/Bachelor-Thesis-Mobai-2025/mouse_tracking_playground)
+### [Mouse Tracking Playground](https://github.com/Bachelor-Thesis-Mobai-2025/mouse-tracking-playground)
 
 Our original research implementation exploring mouse tracking as a method for deception detection. This repository contains the experimental codebase developed throughout the thesis project, including data collection tools, feature extraction, and neural network classification models. (Commit history has been reset due to upload error due to upload size limitations)
 
@@ -16,7 +16,7 @@ Our original research implementation exploring mouse tracking as a method for de
 - Multiple preprocessed datasets with various trajectory processing approaches
 - Best model achieved 68.57% accuracy on the test dataset
 
-### [Mouse Tracking Optimized](https://github.com/Bachelor-Thesis-Mobai-2025/mouse_tracking_optimized)
+### [Mouse Tracking Optimized](https://github.com/Bachelor-Thesis-Mobai-2025/mouse-tracking-optimized)
 
 A refactored, structured and clean version of the original mouse tracking implementation with only the minimal required files. This repository presents the same research in a more maintainable format suitable for academic review and future extension.
 

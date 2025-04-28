@@ -51,7 +51,7 @@ Our research demonstrates the potential of mouse tracking for deception detectio
 
 ## Thesis Information
 
-- **Title:** Deception Detection through Neural Network Classification of Mouse Tracking Patterns
+- **Title:** Mouse Tracking as Behavioral Biometrics: A Statistical, Machine- and Deep-Learning Approach to Mouse Tracking as Deception Detection
 - **Institution:** NTNU Gjøvik
 - **Supervisors:** Kiran Raja
 - **Academic Year:** 2025
